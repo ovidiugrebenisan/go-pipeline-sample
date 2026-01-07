@@ -11,7 +11,7 @@ The Pipeline will build and ruasdasdsan a unit test on a sample go repository, a
 
 ## Workflow
 - Build the code and run unit tests.
-- Package the app as a Docker image and uploadasdasdasdsa it to Docker Hub.
+- Package the app as a Docker image and uploadasdasdasdsa it to Docker Hub.asdasdasdsadasd
 
 
 ## Graphical Summary
